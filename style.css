@@ -1,0 +1,17 @@
+h1 {
+    font-size: 50px;
+    background-color: lightseagreen;
+    width: 400px;
+    border-radius: 20px;
+    color:bisque;
+}
+button {
+    font-size: 22px;
+    background-color: #ff7675;
+    color: bisque;
+    border-radius: 10px;
+    border-width: 0px;   
+}
+button:hover{
+    background-color: #fab1a0;
+}
